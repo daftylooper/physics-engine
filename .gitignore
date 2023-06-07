@@ -1,0 +1,5 @@
+*.o
+cmd.txt
+.vscode/
+*.exe
+main
